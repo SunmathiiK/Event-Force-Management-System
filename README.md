@@ -4,6 +4,7 @@ Salesforce CRM Implementation – Naan Mudhalvan
 EventForce Management System is a Salesforce-based CRM solution designed to centralize and streamline event planning and management operations.
 
 📌 Project Overview
+
 The system manages:
 
 Events
@@ -16,6 +17,7 @@ Event Cancellations
 It uses Salesforce automation, Apex, security controls, reports, and dashboards to improve event coordination and reduce manual processes.
 
 🎯 Objectives
+
 Centralize event, client, venue, vendor and feedback information
 Streamline event booking and venue reservation
 Prevent venue double booking
@@ -24,7 +26,9 @@ Manage cancellation approvals
 Improve vendor and event coordination
 Provide reports and dashboards for operational visibility
 Maintain secure and controlled access
+
 🛠️ Technology Stack
+
 Salesforce CRM / Developer Edition
 Salesforce Lightning App
 Salesforce Custom Objects
@@ -38,7 +42,9 @@ Batch Apex
 Scheduled Apex
 Reports & Dashboards
 Profiles, Roles, Permission Sets & Sharing Rules
+
 ⚙️ Key Features
+
 Event Management
 Create and manage event details including event type, date, status and budget.
 
@@ -60,13 +66,13 @@ Profiles, Roles, Permission Sets, Sharing Rules and Organization-Wide Defaults p
 Reports & Dashboards
 Reports and dashboards provide visibility into upcoming events, vendor activities and operational performance.
 
-👥 Team
-Name	Role
+👥 Team Name	Role
 Lakshmisri A	Team Leader
 Sona Sri.V	Team Member
 Sri Sakthi Priya.K	Team Member
 Sunmathi.K	Team Member
 Vaishnavi.M	Team Member
+
 🏫 Institution
 A.V.C College of Engineering
 
